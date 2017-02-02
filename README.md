@@ -12,4 +12,4 @@ The command to install is 'sudo pip install paho-mqtt'
 
 That's it. Enjoy Coding.
 
-For more queries, you can post her or you can send me on madhu@orangeresearchlabs.com <br/>
+For more queries, you can post here or you can send me on madhu@orangeresearchlabs.com <br/>
